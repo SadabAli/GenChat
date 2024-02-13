@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seabort
+python-dotenv
+google-generativeai
+streamlit
+SciPy
+Scikit-learn
+Theano
+TensorFlow
+Keras
+PyTorch

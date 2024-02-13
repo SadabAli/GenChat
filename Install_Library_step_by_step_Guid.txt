@@ -1,0 +1,7 @@
+step 1 :-python -m venv <environment name>
+step 2 :-<environment name>\Scripts\activate
+step 3 :-pip install <library name>
+
+
+IF YOU WANT TO UPGRADE THE PIP THEN WRITE >pip install --upgrade pip 
+
